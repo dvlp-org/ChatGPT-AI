@@ -4,7 +4,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 官网是 https://ai.com/
 
-[国内中文版](https://chat.plexpt.com/)
+[国内可使用的中文版](https://dvlp.org.cn/)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
@@ -21,11 +21,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT成品帐号：[购买](https://fk.fq.mk?code=YT0xJmI9Mg%3D%3D)**
 
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 ------
 
