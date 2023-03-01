@@ -84,7 +84,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 |                  直接加群                  |               如果前面的无法使用，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
+| <img src="./pic/qun.png" width="300"/> | <img src="./pic/wx" width="300"/> |  <img src="./pic/xcx.png" width="300"/> |
 
 
 
@@ -92,11 +92,9 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 ## 加入星球
 
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
+非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以扫码
+加入
 
-| 知识星球         | 微信赞赏      | 
-| ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
 
 
 
