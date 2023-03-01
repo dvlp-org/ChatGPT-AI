@@ -3,8 +3,9 @@
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够生成类人文本。
 
 官网是 https://ai.com/
+国内可使用的中文版 [https://ai.com/](https://dvlp.org.cn/)
 
-[国内可使用的中文版](https://dvlp.org.cn/)
+
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
