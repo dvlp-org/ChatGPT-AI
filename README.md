@@ -15,8 +15,10 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
+<img src="https://github.com/dvlp-org/ChatGPT-AI/blob/041f9af45082f6ea01e285435fa8c82f9e89c1c2/pic/xcx.png" width="400"/> 
+  <p>AI人工智能大脑，微信小程序办可以扫码使用！</p>
+  <p>有需要搭建同款小程序的联系作者免费单肩！！！作者联系方式可扫描上面小程序查看！！！</p>
+
 </div>
 
 [点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
